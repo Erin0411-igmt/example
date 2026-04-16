@@ -148,6 +148,9 @@ l[0] = "x"
 t = ('a', 'b', 'c')
 #t[0] = 'x' tuple values can't be changed
 
+#MA 346 Exercise
+sdlfjasldkfjkasdfjlkasjdflsajflksajfdsdflsjgjhsg
+
 
 
 
